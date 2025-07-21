@@ -1,0 +1,8 @@
+• To run the software you have to run the todo_app.exe file.
+
+
+Important Note - 
+
+• After exiting the .exe file the file will shift to the system tray, it won't close just by exiting .exe file to close it you have to open you system tray there you will find todo software right click on it press exit if you want to exit the app.
+
+• once you open the app and only exit the exe file then you can rerun the software until you will remove it form system tray because it don't allow duplicates.
